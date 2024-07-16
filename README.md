@@ -4,6 +4,7 @@ Hi 👋 My name is Diána Putterer
 I am an "outdated" web developer returning to the field. Unfortunately, after getting my certificate, I could only find work in other areas, resulting in a 10-year gap in this field. In 2021, I began reviving my outdated knowledge after those 10 years and started working on projects again. So far, I have only a few public projects, but I am working on uploading them to GitHub. My new programming skills are all self-taught.
 
 * 🌍  I'm based in Hungary
+* ⚡  Automation Enthusiast, fan of AutoHotkey
 
 ### Skills
 
