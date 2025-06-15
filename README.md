@@ -5,6 +5,7 @@ I am an "outdated" web developer returning to the field. Unfortunately, after ge
 
 * 🌍  I'm based in Hungary
 * ⚡  Automation Enthusiast, fan of AutoHotkey
+* 😄  You can download my game (psychological horror) here: https://kyra169090.itch.io/deathdream
 
 ### Skills
 
